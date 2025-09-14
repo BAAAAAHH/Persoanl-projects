@@ -1,2 +1,2 @@
-# RPG-test
-just an rpg game test on godot so I can better learn how to actually use Godot
+# first README
+just got into github, trying to see what's on here :D
